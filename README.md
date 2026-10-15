@@ -17,7 +17,7 @@ A short demo shows the complete flow:
 5. Switch between the translation and original text.
 6. Export the translated novel as an EPUB to a connected PocketBook.
 
-> **Demo video:** [Watch the end-to-end demonstration](DEMO_LINK_HERE)
+> **Demo video:** [Watch the end-to-end demonstration](https://youtu.be/QLzIz7I3g-s)
 
 ## Features
 
